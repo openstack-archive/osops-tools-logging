@@ -7,6 +7,8 @@ logstash
 
 Example dashboards for Kibana and logging configurations for logstash.
 
+Please see the wiki page at https://wiki.openstack.org/wiki/Osops for other osops tools & repos.
+
 Other sources of logging tools
 ------------------------------
 
